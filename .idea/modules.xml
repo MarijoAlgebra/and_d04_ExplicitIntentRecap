@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExplicitIntentRecap.iml" filepath="$PROJECT_DIR$/ExplicitIntentRecap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and_d04_ExplicitIntentRecap.iml" filepath="$PROJECT_DIR$/and_d04_ExplicitIntentRecap.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

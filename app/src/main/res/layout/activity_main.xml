@@ -43,6 +43,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="email"
+        android:inputType="textEmailAddress"
         android:id="@+id/etEmail"
         />
 
@@ -57,6 +58,7 @@
         android:layout_height="wrap_content"
         android:hint="lozinka"
         android:id="@+id/etLozinka"
+        android:inputType="textPassword"
         />
 
     <LinearLayout
